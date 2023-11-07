@@ -1,0 +1,122 @@
+[
+  {
+    "id": 14,
+    "title": "Camera Digital EOS, Canon, Preto, 23 x 14 x 17 cm ",
+    "price": 999.991,
+    "description": "11 funções personalizadas com 33 definições ajustáveis com a câmera, Cena Automática Inteligente e Estilo de Imagem Automático",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/712DNWFqmyL._AC_SL1428_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 15,
+    "title": "Câmera Digital Canon EOS M200 15-45",
+    "price": 4.153,
+    "description": "Sensor CMOS (APS-C) com 24.1 Megapixel e ISO 100-25600",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/716JVVSSgVL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 16,
+    "title": "CÂMERA INSTAX MINI 11 - AZUL",
+    "price": 399,
+    "description": "Foto instantânea: uma experiência única! Onde as fotos são reveladas instantaneamente à frente dos seus olhos (até 2 min. após o clique).",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/51yRjvhMNGL._AC_SL1000_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 17,
+    "title": "Câmera GoPro HERO11 Black à Prova D'água com LCD Frontal, Vídeos 5.3K, Fotos 27MP",
+    "price": 2.599,
+    "description": "Fotos em 27MP e Vídeos de 5,3K60 em Alta Resolução + Alta Taxa de Quadros, HyperSmooth 5.0, Bloqueio de Horizonte, Resistente e à prova d’água até 10 Metros de Profundidade, Bateria Enduro de Longa Duração Inclusa",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/71Ay6Z31HrL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 18,
+    "title": "Rokinon Lente olho de peixe HD8M-C 8 mm f/3.5 HD com capuz removível para Canon DSLR 8-8 mm, lente fixa sem zoom, preta ",
+    "price": 2.5,
+    "description": "Lente olho de peixe ultra grande angular de 8 mm com perspectiva exagerada para efeitos dramáticos; foco manual",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/51+WJ644f8L._AC_SL1200_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 19,
+    "title": "Lente Macro para Celular APEXEL 100MM HD 4K Premium Para Efeito Macroscópico Micro Fotos e Vídeos Unhas Cílios Sobrancelha Maquiagem Insetos Joias Plantas",
+    "price": 165,
+    "description": "Imagem de Efeito: Permite que um telefone se aproxime incrivelmente dos objetos, capturando os menores detalhes do mundo. Quer se trate de texturas ricas, materiais detalhados ou coisas vivas, Macro permite que objetos do tamanho de uma cabeça de alfinete sejam vistos sob uma nova luz.",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/61FQKqEG54L._AC_SL1000_.jpg",
+    "rating": {
+      "rate": 4.535714285714287,
+      "count": 168
+    }
+  },
+  {
+    "id": 21,
+    "title": "Teste 21",
+    "price": 9999999,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 22,
+    "title": "Teste 22",
+    "price": 9999999,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 25,
+    "title": "teste agora foi",
+    "price": "100",
+    "description": "51fs5f1d51",
+    "category": "51s5f1ds5",
+    "image": "1fd5s1ffds"
+  },
+  {
+    "id": 26,
+    "title": "teste agora foi",
+    "price": "101",
+    "description": "51fs5f1d51",
+    "category": "51s5f1ds5",
+    "image": "https://placehold.co/400"
+  },
+  {
+    "id": 28,
+    "title": "Dash Cam Frente e Dentro, Wi-Fi Embutido, 1080p Câmera de Painel Duplo para Carros, 170 ° Grande Angular Car Camera Recorder (Dash Cam Frontal e Interior+WIFI)",
+    "price": "101249",
+    "description": "[1080p câmera de traço duplo] Com câmera frontal 1080p de alta qualidade e câmera interna 480p, a dashcam é capaz de capturar imagens mais detalhadas, incluindo placas de rua e placas de veículos. Além disso, com câmera wide-angel, a dashcam está com visões estendidas e menos pontos cegos.",
+    "category": "electronics",
+    "image": "https://m.media-amazon.com/images/I/51AfmY1oc0L._AC_SL1200_.jpg"
+  }
+]
